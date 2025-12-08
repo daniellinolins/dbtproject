@@ -1,3 +1,4 @@
+--join model
 with prod as (
     select 
     ct.category_name, 
