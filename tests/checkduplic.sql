@@ -1,3 +1,4 @@
+-- check duplicities
 select 
     count(*) count, 
     company_name, 
